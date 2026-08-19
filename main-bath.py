@@ -15,7 +15,9 @@ def bath():
     
 
 def main():
-    bath
-
+    print('Welcome, what do you want to do? \n bath or bath')
+    input()
+    bath()
+    
 if __name__ == '__main__':
     main()
